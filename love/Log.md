@@ -37,6 +37,33 @@
 **Link to Work**: [Bird Tutorial](https://github.com/fergstar/100daysof/tree/master/love)
 
 ### Day 6: 22nd January, 2017
-**Today's Progress**: 
+**Today's Progress**: Birthday. Drunk. Nuff said.
+
+
+### Day 7: 23nd January, 2017
+**Today's Progress**: Started working on my first project - Love2d Game Mechanic Explorer. I going to use the examples from the Phaser version but written with love2d.
+
+**Thoughts**:
+ 
+**Link to Work**: [love-mechanic](https://github.com/fergstar/love-mechanic)
+
+### Day 8: 24nd January, 2017
+**Today's Progress**: Setting up menu items for selecting different game mechanics.
+
 **Thoughts**: 
-**Link to Work**:
+
+**Link to Work**: [love-mechanic](https://github.com/fergstar/love-mechanic)
+
+### Day 9: 25nd January, 2017
+**Today's Progress**: Looking at using Canvas for rendering the different mechanics to the screen.
+
+**Thoughts**: 
+
+**Link to Work**: [love-mechanic](https://github.com/fergstar/love-mechanic)
+
+### Day 10: 26nd January, 2017
+**Today's Progress**: Experimenting with Love2d Canvas
+
+**Thoughts**:
+ 
+**Link to Work**: [love-spikes]()
