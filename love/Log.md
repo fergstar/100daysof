@@ -1,16 +1,12 @@
 ## Log
+
 ### Day 1: 17th January, 2017
-
 **Today's Progress**: Setting up the 100 days of code project folder. Started on a löve2d tutorial [Part 1](http://www.osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-1-of-3). 
-
 **Thoughts**: Took a while setting up the project files and writing the readme files.
-
 **Link to Work**: [Scrolling Shooter Tutorial](https://github.com/fergstar/100daysof/tree/master/love/ScrollingShooter)
 
 ### Day 2: 18th January, 2017
-
 **Today's Progress**: Installed Lua IDE '[ZeroBraneStudio](https://studio.zerobrane.com/)', also installed a Lua Package Manager called '[LuaRocks](https://luarocks.org/)'. Finished Chapter 2 and Chapter 3 of the [OSM Studio tutorials](http://osmstudios.com/tutorials/your-first-love2d-game-in-200-lines-part-2-of-3). Started on 'bird' tutorial from [simplegametutorials](https://simplegametutorials.github.io/bird).
-
 **Thoughts**: The IDE makes it easy to work with Lua and debugging. Finding some better tutorials to work thru.
 
 **Link to Work**: [Scrolling Shooter Tutorial](https://github.com/fergstar/100daysof/tree/master/love/ScrollingShooter), [Bird Tutorial](https://github.com/fergstar/100daysof/tree/master/love)
@@ -67,3 +63,34 @@
 **Thoughts**:
  
 **Link to Work**: [love-spikes]()
+
+### Day 11: 27th January, 2017
+**Today's Progress**: Nothing.
+
+### Day 12: 28rd January, 2017
+**Today's Progress**: Nada.
+
+### Day 13: 29th January, 2017
+**Today's Progress**: Started adding game mechanics as separate projects, will merge into main project at some point.
+
+**Thoughts**: 
+ 
+**Link to Work**: [love-mechanic](https://github.com/fergstar/love-mechanic)
+
+### Days 14-25: 30th Jan - 10th Feb, 2017
+**Week's Progress**: When you code all day for work it's alot harder to motivate yourself to code outside of work.
+
+### Day 26: 11th Febuary, 2017
+**Today's Progress**: Got double jump working.
+
+**Thoughts**: Really want to work on getting this finished, so I can move onto the next Löve project.
+ 
+**Link to Work**: [love-mechanic](https://github.com/fergstar/love-mechanic)
+
+### Day 27: 12th Febuary, 2017
+**Today's Progress**: Working on the walking acceleration.
+
+**Thoughts**: Not sure if this has been implemented correctly, will come back to this later.
+ 
+**Link to Work**: [love-mechanic](https://github.com/fergstar/love-mechanic)
+
